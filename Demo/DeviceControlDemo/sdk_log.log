@@ -1,0 +1,23 @@
+Begin Time:2021-10-08T17:50:22.456
+[2021-10-08T17:50:22.456 info Netsdk:48184 12820:8688 AVNetSDKMgr.cpp:378]Load avnetsdk library dynamically
+[2021-10-08T17:50:22.460 info Netsdk:48184 12820:8688 AVNetSDKMgr.cpp:402]avnetsdk module handle: 0000026616B00000
+
+[2021-10-08T17:50:22.461 info Netsdk:48184 12820:8688 AVNetSDKMgr.cpp:734]Load configsdk dynamically
+[2021-10-08T17:50:23.663 info Netsdk:48184 12820:8688 dhnetsdk.cpp:809]Enter CLIENT_LoginWithHighLevelSecurity. pstInParam:0000026612ABBAB0, pstOutParam:0000026612D71210.
+[2021-10-08T17:50:23.663 info Netsdk:48184 12820:8688 dhnetsdk.cpp:825]IP:172.23.29.53, port:37777, SpeCap:0, CapParam:0000000000000000.
+[2021-10-08T17:50:25.163 error Netsdk:48184 12820:8688 TPTCPClient.cpp:392]Connect host failed, ip:172.23.29.53
+[2021-10-08T17:50:25.163 error Netsdk:48184 12820:8688 dhdevprob.cpp:2380]Login failed, Failed to create main connection
+[2021-10-08T17:50:25.164 error Netsdk:48184 12820:8688 Manager.cpp:8305]device is NULL
+[2021-10-08T17:50:25.164 error Netsdk:48184 12820:8688 Manager.cpp:8406]Login device failed, errorcode:9!
+[2021-10-08T17:50:25.164 error Netsdk:48184 12820:8688 dhnetsdk.cpp:867]Login failed, ip:172.23.29.53, port:37777, specCap:0!
+[2021-10-08T17:50:25.164 info Netsdk:48184 12820:8688 dhnetsdk.cpp:871]Leave CLIENT_LoginWithHighLevelSecurity. error:9, login ID:0000000000000000.
+[2021-10-08T17:50:43.031 info Netsdk:48184 12820:8688 dhnetsdk.cpp:7250]Enter CLIENT_GetLastError.
+[2021-10-08T17:50:43.031 info Netsdk:48184 12820:8688 dhnetsdk.cpp:7253]Leave CLIENT_GetLastError.[Error code=8000006b.]
+[2021-10-08T17:50:46.351 info Netsdk:48184 12820:8688 dhnetsdk.cpp:809]Enter CLIENT_LoginWithHighLevelSecurity. pstInParam:0000026612ABBAB0, pstOutParam:0000026612D71210.
+[2021-10-08T17:50:46.351 info Netsdk:48184 12820:8688 dhnetsdk.cpp:825]IP:172.23.29.53, port:37777, SpeCap:0, CapParam:0000000000000000.
+[2021-10-08T17:50:47.852 error Netsdk:48184 12820:8688 TPTCPClient.cpp:392]Connect host failed, ip:172.23.29.53
+[2021-10-08T17:50:47.852 error Netsdk:48184 12820:8688 dhdevprob.cpp:2380]Login failed, Failed to create main connection
+[2021-10-08T17:50:47.852 error Netsdk:48184 12820:8688 Manager.cpp:8305]device is NULL
+[2021-10-08T17:50:47.852 error Netsdk:48184 12820:8688 Manager.cpp:8406]Login device failed, errorcode:9!
+[2021-10-08T17:50:47.852 error Netsdk:48184 12820:8688 dhnetsdk.cpp:867]Login failed, ip:172.23.29.53, port:37777, specCap:0!
+[2021-10-08T17:50:47.852 info Netsdk:48184 12820:8688 dhnetsdk.cpp:871]Leave CLIENT_LoginWithHighLevelSecurity. error:9, login ID:0000000000000000.
